@@ -1,4 +1,4 @@
-package creational;
+package creational.singleton;
 
 /**
  * 单例模式。

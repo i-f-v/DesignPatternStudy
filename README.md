@@ -10,7 +10,7 @@
 - 依赖反转（Dependence Inversion Principle）
   > 针对接口编程，依赖于“**抽象**” 。
 - 里氏替换（Liskov Substitution Principle）
-  > 基类可以出现的地方，都可以**用子类替换**。
+  > 通过规范接口，实现子类父类相互替换。
 - 迪米特原则（Demeter Principle）
   > **实体之间**应该尽量少地发生相互作用，使得系统功能模块相对独立。
 - 开闭原则（Open Close Principle）
